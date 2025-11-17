@@ -1,3 +1,156 @@
 {
-  "records": []
+  "records": [
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "aarav@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "vivaan@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "aarav@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "vivaan@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "aarav@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "vivaan@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "aarav@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "vivaan@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5C",
+      "studentEmail": "arjun@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5C",
+      "studentEmail": "priya@college.in",
+      "date": "2025-11-14",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "aarav@college.in",
+      "date": "2025-11-16",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": "",
+      "className": "5A",
+      "studentEmail": "vivaan@college.in",
+      "date": "2025-11-16",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": null,
+      "className": "5A",
+      "studentEmail": "aarav@college.in",
+      "date": "2025-11-16",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": null,
+      "className": "5A",
+      "studentEmail": "vivaan@college.in",
+      "date": "2025-11-16",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": null,
+      "className": "5A",
+      "studentEmail": "aarav@college.in",
+      "date": "2025-11-16",
+      "present": true
+    },
+    {
+      "teacherEmail": "toc_teacher@college.in",
+      "subject": null,
+      "className": "5A",
+      "studentEmail": "vivaan@college.in",
+      "date": "2025-11-16",
+      "present": true
+    },
+    {
+      "teacherEmail": "cn_teacher@college.in",
+      "subject": null,
+      "className": "5A",
+      "studentEmail": "aarav@college.in",
+      "date": "2025-11-16",
+      "present": true
+    },
+    {
+      "teacherEmail": "cn_teacher@college.in",
+      "subject": null,
+      "className": "5A",
+      "studentEmail": "vivaan@college.in",
+      "date": "2025-11-16",
+      "present": true
+    },
+    {
+      "teacherEmail": "cn_teacher@college.in",
+      "subject": null,
+      "className": "5A",
+      "studentEmail": "monish@college.in",
+      "date": "2025-11-16",
+      "present": true
+    }
+  ]
 }

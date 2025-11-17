@@ -3,30 +3,118 @@
     {
       "id": 1,
       "name": "Admin",
-      "email": "admin@example.com",
-      "password": "admin123"
+      "email": "admin@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy"
     }
   ],
   "teachers": [
     {
-      "id": 1762351396829,
-      "name": "RAJESH",
-      "email": "rajesh@teacher.in",
-      "collegeId": "1TCHCS",
-      "password": "rajesh",
-      "subjects": [],
-      "classes": []
+      "id": 2,
+      "name": "TOC Teacher",
+      "email": "toc_teacher@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "subjects": [
+        "TOC"
+      ],
+      "classes": [
+        "5A",
+        "5B",
+        "5C",
+        "5D"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "CN Teacher",
+      "email": "cn_teacher@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "subjects": [
+        "CN"
+      ],
+      "classes": [
+        "5A",
+        "5B",
+        "5C",
+        "5D"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Database Teacher",
+      "email": "db_teacher@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "subjects": [
+        "Database"
+      ],
+      "classes": [
+        "5A",
+        "5B"
+      ]
     }
   ],
   "students": [
     {
-      "id": 1762352107222,
-      "name": "Monish V",
-      "email": "monish@student.in",
-      "className": "5B",
-      "profilePic": null,
-      "password": "student123"
+      "id": 101,
+      "name": "Aarav Sharma",
+      "email": "aarav@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "className": "5A"
+    },
+    {
+      "id": 102,
+      "name": "Vivaan Kumar",
+      "email": "vivaan@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "className": "5A"
+    },
+    {
+      "id": 103,
+      "name": "Aditya Rao",
+      "email": "aditya@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "className": "5B"
+    },
+    {
+      "id": 104,
+      "name": "Sai Singh",
+      "email": "sai@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "className": "5B"
+    },
+    {
+      "id": 105,
+      "name": "Arjun Iyer",
+      "email": "arjun@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "className": "5C"
+    },
+    {
+      "id": 106,
+      "name": "Priya Rao",
+      "email": "priya@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "className": "5C"
+    },
+    {
+      "id": 107,
+      "name": "Anjali Bose",
+      "email": "anjali@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "className": "5D"
+    },
+    {
+      "id": 108,
+      "name": "Maya Bhat",
+      "email": "maya@college.in",
+      "password": "$2a$10$EN.9GNSneUJmJhx5g2.xzu9X/jZUWG7/V7/o0aR.GvSIxVYUM8/qy",
+      "className": "5D"
+    },
+    {
+      "id": 1763310779449,
+      "name": "MONISH V",
+      "email": "monish@college.in",
+      "password": "$2a$10$flXXYvTcHiiQeWWanzjFpePHAve5guib8eYkZ0gXzWsi5kcuReqAS",
+      "className": "5A"
     }
-  ],
-  "requests": []
+  ]
 }
