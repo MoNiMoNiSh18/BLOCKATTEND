@@ -1,16 +1,13 @@
-# BlockAttend - Scaffold
+# BlockAttend 
 
-This scaffold implements a minimal **Blockchain-based Attendance System** with:
+**Blockchain-based Attendance System** with:
 - Hardhat solidity contract that stores attendance records (events).
 - Node/Express backend using **local JSON files** (offline friendly) and optional push to local Hardhat node using ethers.
 - React frontend (minimal) with dark theme and the basic flows: teacher registration, admin approval, teacher add student, mark attendance (backend).
 
-Important: this is a scaffold to deliver a working model by deadline. It demonstrates the requested features and is designed to run **locally** on a Windows 11 64-bit machine. You can extend it further.
-
 ## Prerequisites
 - Node.js 18+ and npm
-- Git (optional)
-- Recommended terminal: Windows PowerShell or WSL2 (recommended for better compatibility)
+- Git (optional)-
 - Port 4000 free (backend). Hardhat default RPC at 8545.
 
 ## Quick start (one-time)
@@ -46,21 +43,12 @@ Open a terminal in the project root (`/mnt/data/BlockAttend_scaffold` if downloa
 - `server/index.js` - backend API and JSON storage
 - `client/src` - React UI skeleton and dark theme
 
-## Extending the scaffold
+## Future Works
 - Implement proper authentication (JWT), file attachments to IPFS, email via SMTP, and a real database (SQLite/Postgres).
 - Expand frontend UI with Tailwind components and React Router for multi-page UI.
 - Connect teacher/student accounts to Ethereum addresses if desired.
 
-If you want, I can now:
-1. Add more complete UI pages (admin dashboard, teacher attendance grid, student profile) in the React app.
-2. Implement JWT auth and protect endpoints.
-3. Add CSV/PDF generation in the server (PDF requires extra libs).
-4. Provide a pre-built `node_modules` archive to make it fully offline (this is large).
-
-Tell me which extras you'd like and I'll add them right away.
-
-
 ## Demo credentials (server data)
-- Admin: email `admin@example.com`, password `admin123`
+- Admin: email `admin@example.com`, password `password123`
 - When admin approves a teacher request, the teacher will receive the password they registered with.
-- Students added by teacher get default password `student123`.
+- Students added by teacher get default password `password123`.
